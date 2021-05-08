@@ -126,4 +126,4 @@ def get_coin_data(coin_symbol):
     csv_file2.close()
     
 get_coins()
-get_coin_data('BTC')
+get_coin_data('AVAX')
