@@ -32,8 +32,8 @@ Cosmos,ATOM,coinmarketcap.com/currencies/cosmos/
 FTX Token,FTT,coinmarketcap.com/currencies/ftx-token/
 Aave,AAVE,coinmarketcap.com/currencies/aave/
 Maker,MKR,coinmarketcap.com/currencies/maker/
-Tezos,XTZ,coinmarketcap.com/currencies/tezos/
 Klaytn,KLAY,coinmarketcap.com/currencies/klaytn/
+Tezos,XTZ,coinmarketcap.com/currencies/tezos/
 BitTorrent,BTT,coinmarketcap.com/currencies/bittorrent/
 Avalanche,AVAX,coinmarketcap.com/currencies/avalanche/
 Huobi Token,HT,coinmarketcap.com/currencies/huobi-token/
@@ -41,8 +41,8 @@ Crypto.com Coin,CRO,coinmarketcap.com/currencies/crypto-com-coin/
 Algorand,ALGO,coinmarketcap.com/currencies/algorand/
 Dai,DAI,coinmarketcap.com/currencies/multi-collateral-dai/
 THORChain,RUNE,coinmarketcap.com/currencies/thorchain/
-Dash,DASH,coinmarketcap.com/currencies/dash/
 SHIBA INU,SHIB,coinmarketcap.com/currencies/shiba-inu/
+Dash,DASH,coinmarketcap.com/currencies/dash/
 Polygon,MATIC,coinmarketcap.com/currencies/polygon/
 Compound,COMP,coinmarketcap.com/currencies/compound/
 Kusama,KSM,coinmarketcap.com/currencies/kusama/

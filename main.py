@@ -8,6 +8,13 @@ csv_file = open('coins.csv','w', newline='')
 csv_writer = csv.writer(csv_file)
 csv_writer.writerow(['name','symbol','URL'])
 
+csv_file2 = open('coins_data.csv','w', newline='')
+csv_writer2 = csv.writer(csv_file2)
+csv_writer2.writerow(['Symbol','Name','WatchlistCount','Website URL','Circulating Supply %','Price','Volume/Market Cap','Market Dominance',
+                      'Rank','Market Cap','All Time High - DATE','All Time High - PRICE','All Time Low  - DATE','All Time Low  - PRICE',
+                      'What is <Coin Name>?','Who are the founders?','What makes it unique?'
+                      ])
+
 def get_coins():
     url = "https://coinmarketcap.com/"
     source = requests.get(url).text
@@ -39,7 +46,7 @@ def get_coins():
             except:
                 pass
     csv_file.close()
-get_coins()
+
 
 
 
@@ -49,14 +56,9 @@ def get_coin_data(coin_symbol):
         csv_reader = csv.reader(csv_file)
         for line in csv_reader:
             if(line[1] == coin_symbol ):
-                #print(line)
                 target_url = "http://" + line[2]
-                #print(target_url)
                 name = line[0]
-                print(coin_symbol)
-                print(name)
                 website_url = target_url
-                print(website_url)
                 break
             
             
@@ -65,22 +67,22 @@ def get_coin_data(coin_symbol):
     soup = BeautifulSoup(source,'lxml')
     
     watch_list = soup.find_all('div',class_="namePill___3p_Ii")[2].text.split()[1]
-    print(watch_list)
+    
     circulating_supply = soup.find('div',class_="supplyBlockPercentage___1g1SF").text
-    print(circulating_supply)    
+      
     table = soup.find('div',class_='sc-16r8icm-0 fIhwvd')
     price = table.find('td').text
-    print(price)
-    market_cap = table.find_all('tr')[4].td.text
-    print(market_cap)
+    
+    volume_cap = table.find_all('tr')[4].td.text
+    
     market_dominance = table.find_all('tr')[5].td.span.text
-    print(market_dominance)
+   
     rank = table.find_all('tr')[6].td.text
-    print(rank)
+   
     
     table2 = soup.find_all('div',class_='sc-16r8icm-0 fIhwvd')[1]
     market_cap = table2.find('td').span.text
-    print(market_cap)
+    
     over_all_div = soup.find('div',class_='sc-1lt0cju-0 srvSa').div
     
     
@@ -108,24 +110,20 @@ def get_coin_data(coin_symbol):
             q3_flag = True
         if(not q3_flag and q1_flag and q2_flag and tag.name == 'p'):
             what_makes_it_unique.append(tag.text)
-            
-            
-    print(what_is_coin_name)
-    print(who_are_the_founders)
-    print(what_makes_it_unique)
+    
     
     table3 = soup.find_all('div',class_="sc-16r8icm-0 fIhwvd")[3].tbody
     all_time_high_price = table3.find_all('tr')[4].td.span.text
-    print(all_time_high_price) 
+    
     all_time_low_price = table3.find_all('tr')[5].td.span.text
-    print(all_time_low_price)
+    
     all_time_high_date = table3.find('small',class_='smallHeading___3DNdQ').text.split('(')[0]
-    print(all_time_high_date)
+    
     all_time_low_date = table3.find_all('small',class_='smallHeading___3DNdQ')[1].text.split('(')[0]
-    print(all_time_low_date)
+    
+    
+    csv_writer2.writerow([coin_symbol,name,watch_list,website_url,circulating_supply,price,volume_cap,market_dominance,rank,market_cap,all_time_high_date,all_time_high_price,all_time_low_date,all_time_low_price,what_is_coin_name,who_are_the_founders,what_makes_it_unique])
+    csv_file2.close()
+    
+get_coins()
 get_coin_data('BTC')
-    
-    
-    
-    
-    
