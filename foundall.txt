@@ -1,0 +1,101 @@
+Bitcoin BTC coinmarketcap.com/currencies/bitcoin/
+Ethereum ETH coinmarketcap.com/currencies/ethereum/
+Binance Coin BNB coinmarketcap.com/currencies/binance-coin/
+Dogecoin DOGE coinmarketcap.com/currencies/dogecoin/
+XRP XRP coinmarketcap.com/currencies/xrp/
+Tether USDT coinmarketcap.com/currencies/tether/
+Cardano ADA coinmarketcap.com/currencies/cardano/
+Polkadot DOT coinmarketcap.com/currencies/polkadot-new/
+Bitcoin Cash BCH coinmarketcap.com/currencies/bitcoin-cash/
+Litecoin LTC coinmarketcap.com/currencies/litecoin/
+_______________________________________________________________________________________
+Uniswap UNI coinmarketcap.com/currencies/uniswap/
+Chainlink LINK coinmarketcap.com/currencies/chainlink/
+VeChain VET coinmarketcap.com/currencies/vechain/
+Stellar XLM coinmarketcap.com/currencies/stellar/
+USD Coin USDC coinmarketcap.com/currencies/usd-coin/
+Ethereum Classic ETC coinmarketcap.com/currencies/ethereum-classic/
+THETA THETA coinmarketcap.com/currencies/theta/
+Solana SOL coinmarketcap.com/currencies/solana/
+TRON TRX coinmarketcap.com/currencies/tron/
+Filecoin FIL coinmarketcap.com/currencies/filecoin/
+Wrapped Bitcoin WBTC coinmarketcap.com/currencies/wrapped-bitcoin/
+EOS EOS coinmarketcap.com/currencies/eos/
+Monero XMR coinmarketcap.com/currencies/monero/
+Neo NEO coinmarketcap.com/currencies/neo/
+Binance USD BUSD coinmarketcap.com/currencies/binance-usd/
+Bitcoin SV BSV coinmarketcap.com/currencies/bitcoin-sv/
+Terra LUNA coinmarketcap.com/currencies/terra-luna/
+PancakeSwap CAKE coinmarketcap.com/currencies/pancakeswap/
+Cosmos ATOM coinmarketcap.com/currencies/cosmos/
+IOTA MIOTA coinmarketcap.com/currencies/iota/
+FTX Token FTT coinmarketcap.com/currencies/ftx-token/
+Aave AAVE coinmarketcap.com/currencies/aave/
+Tezos XTZ coinmarketcap.com/currencies/tezos/
+Klaytn KLAY coinmarketcap.com/currencies/klaytn/
+Maker MKR coinmarketcap.com/currencies/maker/
+BitTorrent BTT coinmarketcap.com/currencies/bittorrent/
+Avalanche AVAX coinmarketcap.com/currencies/avalanche/
+Crypto.com Coin CRO coinmarketcap.com/currencies/crypto-com-coin/
+Huobi Token HT coinmarketcap.com/currencies/huobi-token/
+Algorand ALGO coinmarketcap.com/currencies/algorand/
+Dai DAI coinmarketcap.com/currencies/multi-collateral-dai/
+THORChain RUNE coinmarketcap.com/currencies/thorchain/
+Dash DASH coinmarketcap.com/currencies/dash/
+Polygon MATIC coinmarketcap.com/currencies/polygon/
+Kusama KSM coinmarketcap.com/currencies/kusama/
+Compound COMP coinmarketcap.com/currencies/compound/
+Zcash ZEC coinmarketcap.com/currencies/zcash/
+SHIBA INU SHIB coinmarketcap.com/currencies/shiba-inu/
+NEM XEM coinmarketcap.com/currencies/nem/
+Waves WAVES coinmarketcap.com/currencies/waves/
+Elrond EGLD coinmarketcap.com/currencies/elrond-egld/
+Bitcoin BEP2 BTCB coinmarketcap.com/currencies/bitcoin-bep2/
+UNUS SED LEO LEO coinmarketcap.com/currencies/unus-sed-leo/
+Chiliz CHZ coinmarketcap.com/currencies/chiliz/
+Decred DCR coinmarketcap.com/currencies/decred/
+Zilliqa ZIL coinmarketcap.com/currencies/zilliqa/
+Holo HOT coinmarketcap.com/currencies/holo/
+Hedera Hashgraph HBAR coinmarketcap.com/currencies/hedera-hashgraph/
+Qtum QTUM coinmarketcap.com/currencies/qtum/
+Decentraland MANA coinmarketcap.com/currencies/decentraland/
+Stacks STX coinmarketcap.com/currencies/stacks/
+Bitcoin Gold BTG coinmarketcap.com/currencies/bitcoin-gold/
+Fantom FTM coinmarketcap.com/currencies/fantom/
+Basic Attention Token BAT coinmarketcap.com/currencies/basic-attention-token/
+DigiByte DGB coinmarketcap.com/currencies/digibyte/
+Synthetix SNX coinmarketcap.com/currencies/synthetix-network-token/
+Theta Fuel TFUEL coinmarketcap.com/currencies/theta-fuel/
+Nexo NEXO coinmarketcap.com/currencies/nexo/
+Enjin Coin ENJ coinmarketcap.com/currencies/enjin-coin/
+OKB OKB coinmarketcap.com/currencies/okb/
+TerraUSD UST coinmarketcap.com/currencies/terrausd/
+The Graph GRT coinmarketcap.com/currencies/the-graph/
+Ontology ONT coinmarketcap.com/currencies/ontology/
+Siacoin SC coinmarketcap.com/currencies/siacoin/
+SushiSwap SUSHI coinmarketcap.com/currencies/sushiswap/
+NEAR Protocol NEAR coinmarketcap.com/currencies/near-protocol/
+Bitcoin Diamond BCD coinmarketcap.com/currencies/bitcoin-diamond/
+yearn.finance YFI coinmarketcap.com/currencies/yearn-finance/
+Telcoin TEL coinmarketcap.com/currencies/telcoin/
+Horizen ZEN coinmarketcap.com/currencies/horizen/
+OMG Network OMG coinmarketcap.com/currencies/omg/
+ICON ICX coinmarketcap.com/currencies/icon/
+Celsius CEL coinmarketcap.com/currencies/celsius/
+0x ZRX coinmarketcap.com/currencies/0x/
+Ravencoin RVN coinmarketcap.com/currencies/ravencoin/
+UMA UMA coinmarketcap.com/currencies/uma/
+Helium HNT coinmarketcap.com/currencies/helium/
+Nano NANO coinmarketcap.com/currencies/nano/
+SwissBorg CHSB coinmarketcap.com/currencies/swissborg/
+Bancor BNT coinmarketcap.com/currencies/bancor/
+BakeryToken BAKE coinmarketcap.com/currencies/bakerytoken/
+Celo CELO coinmarketcap.com/currencies/celo/
+Harmony ONE coinmarketcap.com/currencies/harmony/
+Venus XVS coinmarketcap.com/currencies/venus/
+Ankr ANKR coinmarketcap.com/currencies/ankr/
+TrueUSD TUSD coinmarketcap.com/currencies/trueusd/
+1inch 1INCH coinmarketcap.com/currencies/1inch/
+Verge XVG coinmarketcap.com/currencies/verge/
+Revain REV coinmarketcap.com/currencies/revain/
+Lisk LSK coinmarketcap.com/currencies/lisk/
